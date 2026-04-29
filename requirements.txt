@@ -1,0 +1,29 @@
+# 🔹 Core LangChain stack
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+
+# 🔹 Models
+transformers
+torch
+sentence-transformers
+
+# 🔹 Vector store
+faiss-cpu
+
+# 🔹 Document loading
+pypdf
+pymupdf
+
+# 🔹 UI
+gradio
+
+# 🔹 Utilities
+tqdm
+numpy
+
+# 🔹 Notebook environment (IMPORTANT)
+jupyter
+ipykernel
+ipywidgets
